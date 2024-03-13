@@ -16,6 +16,25 @@ Hatiku sangat kacau
 Balonku tinggal empat
 Kupegang erat-erat..
 
+<<<<<<< HEAD
 Balonku tinggal empat
 Kupegang erat-erat..
 
+=======
+<<<<<<< HEAD
+
+Meletus balon hijau, dor!
+Hatiku sangat kacau
+
+=======
+<<<<<<< HEAD
+
+Hijau, Kuning, Kelabu
+Merah muda dan biru
+
+=======
+Balonku Ada Lima
+Rupa-rupa Warnanya
+>>>>>>> 6c0b489a9a167c752a973b0d5f03b19c2074dc95
+>>>>>>> 6274f95fb038219224227c85642ee48fa55fb34c
+>>>>>>> 8b5bbb7e0446c4110cb3b69ec88f7381ea1e9125
