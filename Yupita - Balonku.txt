@@ -17,9 +17,12 @@ Balonku tinggal empat
 Kupegang erat-erat..
 
 
+== lagu selesai ==
+
 tulisan ini ditulis oleh irsyad
 
 
+<<<<<<< HEAD
 Yeyyyyyyyyyyy
 
 haloo aku tharra
@@ -30,3 +33,6 @@ haloo aku tharra
 
 
 
+=======
+Yeyyyyyyyyyyy
+>>>>>>> 1743780e6f62efcdb738fb61cb6938f1e6d88931
